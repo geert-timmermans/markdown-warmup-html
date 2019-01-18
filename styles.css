@@ -60,3 +60,6 @@ li{
 .roundedcorners{
   border-radius:10px 0px 10px 0px;
 }
+.roundedcorners2{
+  border-radius: 10px 10px 10px 10px;
+}
